@@ -1,5 +1,7 @@
 package dai
 
-sourcedir = src
+modules = Main
 
-main = Dai.Main
+executable = dai
+
+main = Main
