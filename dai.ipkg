@@ -1,1 +1,5 @@
 package dai
+
+sourcedir = src
+
+main = Dai.Main
