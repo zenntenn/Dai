@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: 'ubuntu-latest'
-container: 'zenten/idris2-buildagent:latest'
+container: 'zenten/idris2-buildagent-arch:latest'
 
 steps:
 - script: echo Hello, world!
